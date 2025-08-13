@@ -28,4 +28,4 @@ ws://127.0.0.1/ws
 ```
  **请在 配置文件-其他配置-管理员 ID 在里面填写你的qq号**
 
- 9. [https://new.xigua.wiki](https://new.xigua.wiki)提供免费的api，有需要可查看
+ 9. [https://new.xigua.wiki](https://new.xigua.wiki)提供免费的大模型服务，有需要可查看
