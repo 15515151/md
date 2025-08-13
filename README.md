@@ -31,7 +31,8 @@
 
   * 进入 **配置文件** \> **其他配置** \> **管理员 ID**，将你的 QQ 号码填写进去。
 
-    \<img width="251" height="284" alt="管理员 ID 配置位置" src="[https://github.com/user-attachments/assets/64961789-9c4b-4626-b163-63a7666c7ed6](https://github.com/user-attachments/assets/64961789-9c4b-4626-b163-63a7666c7ed6)" /\>
+<img width="1439" height="925" alt="image" src="https://github.com/user-attachments/assets/6beda5f9-3da7-46c1-9e94-572b42d4da26" />
+
 
 ### 5\. 免费资源与服务
 
