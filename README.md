@@ -11,11 +11,11 @@
 
 当你遇到问题需要寻求帮助时，请务必提供以下信息，这能帮助我们更快地定位问题：
 
-  * **Napcat 配置截图**
+  * **astrbot 配置截图**
 
  <img width="1463" height="925" alt="image" src="https://github.com/user-attachments/assets/7acccccd-ddb4-4d88-85be-2d4351aa6774" />
 
-  * **astrbot 配置截图**
+  * **napcat 配置截图**
 
  <img width="1463" height="925" alt="image" src="https://github.com/user-attachments/assets/9a484d7c-8f3e-4f95-bc8e-533f5e6438a8" />
   * **你的部署方法** (例如，使用 Docker 部署、直接运行等)
